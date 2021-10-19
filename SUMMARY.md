@@ -1,17 +1,13 @@
-# Summary
+# 0 Índice
 
-* [Introducción](README.md)
+* [0.1 Introducción](README.md)
+* [0.2 ¿Por qué ACbR?](porque.md)
 
-## Capítulo 1
+## 1 CONCEPTOS
 
-* [Apartado uno capítulo 1](capitulo-uno/README.md)
-* [Apartado dos capítulo 1](capitulo-uno/apartado-1.md)
-  * [Subapartado](capitulo-uno/subapartado.md)
+* [1.1 ¿Qué es un reto?](reto.md)
+* [1.2 Cambio de roles](roles.md)
 
-## Capítulo 2
-
-* [Apartado uno capítulo 2](capitulo-dos/README.md)
-* [Apartado dos capítulo 2](capitulo-dos/apartado-uno-cap-dos.md)
 
 ---
 

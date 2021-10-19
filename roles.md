@@ -38,6 +38,21 @@ puedes mejorar “.
 
 |Comunicación verbal| |
 |---|---|
-| Tienes que evitar el uso de ...| Por el uso de ...|
+| **Tienes que evitar el uso de ...**| **Por el uso de ...**|
 |**no**  o **deber/tener** _Tienes que aprobar el examen_| **querer/poder** _Puedes aprobar el examen_ |
 | Palabras trampa:  **Nunca, siempre, nadie, otra vez**| **aún, todavía ...**|
+| **Comunicación no verbal**| |
+| **Entorpece ...** | **Favorece...**|
+| DEFENSA Cruzar brazos o piernas Aumentar distancias. Echarse hacia atrás. Evitar el contacto visual. Taparse la cara. | APERTURA Expresión facial relajada. Brazos abiertos, torso despejado. Inclinación hacia el otro. Establecer contacto visual moderado. |
+| DESCONFIANZA  No corresponder al contacto físico o aproximación. Mirar de forma incisiva cuando habla el otro. | CONFIANZA Responder al contacto físico o aproximación. Reaccionar positivamente al humor. |
+| NERVIOSISMO  Rascarse, palpar la ropa o manipular objetos. Removerse en el asiento. | TRANQUILIDAD Expresión facial y voz serena. Postura relajada. Palmada en el hombro. |
+| INDIFERENCIA Mirar hacia otro lado. Hacer otra tarea mientras nos hablan | ATENCIÓN  Mirar a los ojos regularmente. Tomar notas.  Asentir levemente. |
+| IRRITACIÓN E IMPACIENCIA  Tensar la musculatura. Movimientos con las manos. | EVALUACIÓN  Tensar la musculatura. Movimientos con las manos. |
+
+![](/assets/3.png)
+
+_Photo by Mimi Thian on Unsplash_
+
+- - -
+_Fuente: Adaptación de **¿Aceptas el reto? Guia rápida para aplicar ACbR en FP**. Ana Patricia Aparicio Clavería
+Adoración Ascaso Lacasa,Diego López Pascual,María Alegría Rodríguez Castells,Ana Teresa Rodríguez,Clemente,Carlos Sernis Laleona,Irene Yera Pemán,Eloy Zuriguel López CC-BY https://pildooras.com/acbr/_
