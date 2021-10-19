@@ -1,5 +1,8 @@
 # Autores
 
-Coordinación y montaje: 
+Coordinación y montaje:
 
 {% include "git+https://github.com/catedu/faq-aularagon.git/imagenes_creditos.md" %}
+
+Adaptación de **¿Aceptas el reto? Guia rápida para aplicar ACbR en FP**. Ana Patricia Aparicio Clavería
+Adoración Ascaso Lacasa,Diego López Pascual,María Alegría Rodríguez Castells,Ana Teresa Rodríguez,Clemente,Carlos Sernis Laleona,Irene Yera Pemán,Eloy Zuriguel López CC-BY https://pildooras.com/acbr/
