@@ -7,6 +7,9 @@
 
 * [1.1 ¿Qué es un reto?](reto.md)
 * [1.2 Cambio de roles](roles.md)
+* [1.3 Método IDEAL](ideal.md)
+
+## 2 UN EJEMPLO
 
 
 ---

@@ -29,8 +29,3 @@ formación profesional y su aplicación en la Comunidad Autónoma de Aragón BOA
 1. Mayor colaboración del equipo docente por la intermodularidad del ACbR
 1. Una evalución más real.
 1. Posibilidad de incluir otras metodologías: [Flipped Classroom](https://moodle.catedu.es/course/view.php?id=955), Gamificación...
-
-- - -
-
-_Fuente: Adaptación de **¿Aceptas el reto? Guia rápida para aplicar ACbR en FP**. Ana Patricia Aparicio Clavería
-Adoración Ascaso Lacasa,Diego López Pascual,María Alegría Rodríguez Castells,Ana Teresa Rodríguez,Clemente,Carlos Sernis Laleona,Irene Yera Pemán,Eloy Zuriguel López CC-BY https://pildooras.com/acbr/_
