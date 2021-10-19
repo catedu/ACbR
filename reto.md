@@ -12,14 +12,11 @@
 * Una cuestión que no exija pensar, valorar, evaluar (por ejemplo un Webquest)
 * Un problema desconectado de los contenidos modulares previos
 
-# Posibles escenarios
+# Los RA y los CE
 
-En función de los objetivos que te plantees, podemos hablar por ejemplo :
+Varios  RA **Resultados de aprendizaje** pueden estar en un reto con diferente peso. Lo mejor es que entre todos los retos que propongas, trabajas todos los RA.
 
-* Experiencia **silver** (tamaño mini): Un  profesor  trabaja  un  reto  durante  2-3  semanas  en  un  único módulo.
-* Experiencia **gold** (tamaño medio): Implicación más larga del proyecto en un módulo (1 evaluación / todo el curso).
-* Experiencia **platinum** (tamaño medio-grande): Implicación de varios módulos durante unas semanas.
-* Experiencia **diamond** (tamaño grande): Varios  módulos  trabajan  por  retos  durante  un  curso  entero,  o incluso intercentros.
+Los CE **Criterios de Evaluación** se trabajan en uno o en varios retos. No tienen que estar todos los CE contemplados en el conjunto de retos que propones en el aula.
 
 ![](/assets/4.png)
 
