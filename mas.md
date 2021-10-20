@@ -31,7 +31,3 @@
 * [Real Decreto 1147/2011 (2011).- Real Decreto 1147/2011, de 29 de julio,
 por el que se establece la ordenación general de la formación profesional
 del sistema educativo](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2011-13118)
-
-----------
-
-<div style="width: 100%;"><div style="position: relative; padding-bottom: 70.6875%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1600px" height="1131px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5a7481dd7c329a104c0e479a" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>

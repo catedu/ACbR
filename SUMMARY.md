@@ -26,6 +26,6 @@
 
 
 ---
-
+* [Un resumen](resumen.md)
 * [Para saber más](mas.md)
 * [Créditos](creditos.md)
