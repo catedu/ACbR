@@ -14,7 +14,7 @@ Tal y como hemos en [3.1 Rueda de planificación](https://catedu.github.io/ACbR/
 
 Con todos los registros de las competencias técnicas RA y transversales y en función del peso, obtenemos la **calificación final**.
 
-En el caso de las **competencias trasnversales** lo ideal es hacer rúbrias la forma más sencilla posible. En caso contrario es muy laborioso (sobre todo con grupos numerosos).
+En el caso de las **competencias transversales** lo ideal es hacer rúbrias la forma más sencilla posible. En caso contrario es muy laborioso (sobre todo con grupos numerosos).
 
 >**success**
 >Es mejor valorar pocas cosas bien que intentar valorar muchos items y no hacerlo del todo bien.

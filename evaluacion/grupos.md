@@ -14,11 +14,10 @@ Una vez creado los grupos puedes asignar diferentes roles :
 
 |Posibles roles o cargos |Posibles funciones operativas|
 |---|---|
-| Responsable  o coordinador/a |Coordina el trabajo del equipo.  Anima a los/as miembros del equipo a avanzar en su aprendizaje. Tiene  muy  claro  lo  que  el/la  profesor/a  quiere  que aprendan.  Dirige las revisiones periódicas del equipo.  Dinamiza  la  redistribución  de  las  tareas  de  algún miembro del equipo que esté ausente. |
+| Responsable  o coordinador/a | Coordina el trabajo del equipo. Anima a los/as miembros del equipo a avanzar en su aprendizaje. Tiene  muy  claro  lo  que  el/la  profesor/a  quiere  que aprendan.  Dirige las revisiones periódicas del equipo.  Dinamiza  la  redistribución  de  las  tareas  de  algún miembro del equipo que esté ausente. |
 |Ayudante  del responsable  o coordinador/a |Procura que no se pierda el tiempo.  De vez en cuando, actúa de observador/a y anota, en una tabla en la que constan las tareas de cada cargo del equipo, la frecuencia con que éste/a las ejerce. |
 |Portavoz |Habla en nombre del equipo cuando el/la profesor/a requiere su opinión. |
-| Secretario/a |Rellena los formularios del Cuaderno del Equipo (Plan de Equipo, Diario Reflexivo…)  Recuerda,  de  vez  en  cuando,  a  cada  uno/a,  los compromisos  personales  y,  a  todo  el  equipo,  sus objetivos consignados en el Plan de Equipo.  
-Custodia el Cuaderno del Equipo. |
+| Secretario/a |Rellena los formularios del Cuaderno del Equipo (Plan de Equipo, Diario Reflexivo…)  Recuerda,  de  vez  en  cuando,  a  cada  uno/a,  los compromisos  personales  y,  a  todo  el  equipo,  sus objetivos consignados en el Plan de Equipo. Custodia el Cuaderno del Equipo. |
 |Responsable  del material |Custodia el material común del equipo y cuida de él.  Se asegura de que todos/as los/as miembros del equipo mantengan limpia su zona de trabajo. |
 
 Se pueden hacer [contratos de equipo](https://drive.google.com/file/d/12zCig2bioO3McOqQ7ki20mEhE2uhFj3B/view) para que no quede en un mero nombramiento.
