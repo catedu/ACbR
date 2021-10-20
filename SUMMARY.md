@@ -22,7 +22,7 @@
 * [3.1 Rueda de planificación](/evaluacion/rueda.md)
 * [3.2 Taxonomía de Bloom](/evaluacion/bloom.md)
 * [3.3 Elección de grupos](/evaluacion/grupos.md)
-* [3.4 Elección de grupos](/evaluacion/evaluacion.md)
+* [3.4 Evaluación](/evaluacion/evaluacion.md)
 
 
 
