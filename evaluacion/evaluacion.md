@@ -17,7 +17,7 @@ Con todos los registros de las competencias técnicas RA y transversales y en fu
 En el caso de las **competencias trasnversales** lo ideal es hacer rúbrias la forma más sencilla posible. En caso contrario es muy laborioso (sobre todo con grupos numerosos).
 
 >**success**
->Es mejor valorar pocas cosas bien que intentar valorar muchos item y no hacerlo del todo bien.
+>Es mejor valorar pocas cosas bien que intentar valorar muchos items y no hacerlo del todo bien.
 
 Si tu experiencia es *platinum* o *diamond* lo recomendable es valorar las mismas competencias entre los docentes que participan.
 
@@ -30,4 +30,3 @@ La recuperación puede ser una prueba objetiva, una prueba práctica, volver a p
 ![](/assets/evaluation.png)
 
 Photo by <a href="https://unsplash.com/@jeswinthomas?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jeswin Thomas</a> on <a href="https://unsplash.com/s/photos/exam?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  
