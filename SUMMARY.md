@@ -17,7 +17,9 @@
 * [2.4 Actuar](/ejemplo/actuar.md)
 * [2.5 Logros](/ejemplo/logros.md)
 
-## 3 
+## 3 LA PLANIFICACIÓN Y LA EVALUACIÓN
+
+* [3.1 Rueda de planificación](/evaluacion/rueda.md)
 
 
 
