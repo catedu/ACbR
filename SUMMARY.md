@@ -12,6 +12,14 @@
 ## 2 UN EJEMPLO
 
 * [2.1 Identificar](/ejemplo/identificar.md)
+* [2.2 Definir](/ejemplo/definir.md)
+* [2.3 Explorar estrategias](/ejemplo/explorar.md)
+* [2.4 Actuar](/ejemplo/actuar.md)
+* [2.5 Logros](/ejemplo/logros.md)
+
+## 3 
+
+
 
 ---
 

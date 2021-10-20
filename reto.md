@@ -14,7 +14,7 @@
 
 # Los RA y los CE
 
-Varios  RA **Resultados de aprendizaje** pueden estar en un reto con diferente peso. Lo mejor es que entre todos los retos que propongas, trabajas todos los RA.
+Varios  RA **Resultados de aprendizaje** pueden estar en un reto con diferente peso. Lo mejor es que entre todos los retos que propongas trabajes todos los RA.
 
 Los CE **Criterios de Evaluación** se trabajan en uno o en varios retos. No tienen que estar todos los CE contemplados en el conjunto de retos que propones en el aula.
 

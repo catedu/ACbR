@@ -6,7 +6,8 @@ El ACbR es una metodología que quiere enfrentar al alumno a una situación prob
 
 >**danger**
 >### ESTO NO ES UN CURSO SOBRE ACbR
->Simplemente es una breve explicación sobre qué trata esta técnica para el curso de Funcionarios en prácticas del cuerpo de Profesores Técnicos de FP.
+>Simplemente es una breve explicación sobre de qué trata esta técnica para el curso de Funcionarios en prácticas del cuerpo de Profesores Técnicos de FP.
+>
 >Si quieres saber más sobre esta técnica te aconsejamos los cursos del Centro de Profesores específico para FP [CiFPA](https://cifpa.aragon.es/) y en la web https://pildooras.com/acbr/
 
 Como paralelismo a otras técincas en secundaria y primaria, digamos que es como el **ABP Aprendizaje Basado en Proyectos** pero contextualizado a la realidad de taller propio en las aulas de FP.
