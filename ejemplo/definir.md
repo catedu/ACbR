@@ -32,6 +32,9 @@ siguiendo los procedimientos investigados para después analizar los resultados.
 *  ……………………………….
 *  ……………………………
 
+>**tip**
+>En estos pasos 3,4 y 5 considera todos Resultados de Aprendizaje RA que pretendas que el alumno adquiera. Es necesario guiar al alumno para coseguirlos. El objetivo es mantenerlos activos y si es posible en equipo, tu reto es cómo involucar al equipo.
+
 ![](/assets/12.png)
 
 Photo by <a href="https://unsplash.com/@mirandanef?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Pedro Miranda</a> on <a href="https://unsplash.com/s/photos/planning-tool?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
