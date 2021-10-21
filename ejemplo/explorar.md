@@ -23,4 +23,7 @@ En este paso se  pueden  trabajar herramientas  de  toma  de  decisiones,  como 
 
 Es recomendable que **la presenten** (competencia oral) a toda la clase o al profesorado (en este caso, al evaluar, hay que evitar dejarles en evidencia de la imposibilidad de la propuesta, sino proponerles algún cambio que haga posible su materialización), en una clase de 25 alumnos fácilmente pueden aparecer 20 alternativas.
 
----
+![](/assets/strategy.png)
+
+Photo by <a href="https://unsplash.com/@kaleidico?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Kaleidico</a> on <a href="https://unsplash.com/s/photos/strategy?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
